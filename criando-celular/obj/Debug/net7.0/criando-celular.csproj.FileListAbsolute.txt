@@ -1,0 +1,15 @@
+C:\Users\38985141880\Desktop\criando-celular\bin\Debug\net7.0\criando-celular.exe
+C:\Users\38985141880\Desktop\criando-celular\bin\Debug\net7.0\criando-celular.deps.json
+C:\Users\38985141880\Desktop\criando-celular\bin\Debug\net7.0\criando-celular.runtimeconfig.json
+C:\Users\38985141880\Desktop\criando-celular\bin\Debug\net7.0\criando-celular.dll
+C:\Users\38985141880\Desktop\criando-celular\bin\Debug\net7.0\criando-celular.pdb
+C:\Users\38985141880\Desktop\criando-celular\obj\Debug\net7.0\criando-celular.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\criando-celular\obj\Debug\net7.0\criando-celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\criando-celular\obj\Debug\net7.0\criando-celular.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\criando-celular\obj\Debug\net7.0\criando-celular.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\criando-celular\obj\Debug\net7.0\criando-celular.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\criando-celular\obj\Debug\net7.0\criando-celular.dll
+C:\Users\38985141880\Desktop\criando-celular\obj\Debug\net7.0\refint\criando-celular.dll
+C:\Users\38985141880\Desktop\criando-celular\obj\Debug\net7.0\criando-celular.pdb
+C:\Users\38985141880\Desktop\criando-celular\obj\Debug\net7.0\criando-celular.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\criando-celular\obj\Debug\net7.0\ref\criando-celular.dll
